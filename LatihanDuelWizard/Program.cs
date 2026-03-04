@@ -1,4 +1,9 @@
-﻿ public class Wizard
+﻿
+Wizard wizardA = new Wizard("Mak Lampir", 5);
+Wizard wizardB = new Wizard("Nirmala", 10);
+
+
+public class Wizard
 {
     //deklarasi fied
     public string Name;
