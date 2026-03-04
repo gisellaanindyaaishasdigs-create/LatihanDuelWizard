@@ -1,4 +1,4 @@
-﻿public class Wizard
+﻿ public class Wizard
 {
     //deklarasi fied
     public string Name;
