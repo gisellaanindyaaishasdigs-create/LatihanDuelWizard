@@ -16,7 +16,7 @@
     //deklarasi method
     public void ShowStats()
     {
-        Console.WriteLine(($"Name: {Name}");
+        Console.WriteLine(($"Name: {Name}"));
         Console.WriteLine($"Energy:{Energy}\n");
     }
 
